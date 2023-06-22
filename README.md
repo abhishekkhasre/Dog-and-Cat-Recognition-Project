@@ -5,7 +5,7 @@ Developed this Machine Learning project to classify the image into Dogs or Cat. 
 
 ### Problem statement :
 
-In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training and testing is 18,000.
+In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training and testing is 10,000.
 #### Note:This problem statement and dataset is taken from [this](https://www.kaggle.com/c/dogs-vs-cats) Kaggle competition.
 
 ### Dependencies
