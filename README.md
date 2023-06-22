@@ -1,4 +1,4 @@
-# Dog-and-Cat-Recognition-Project
+Dog-and-Cat-Recognition-Project
 Developed this Machine Learning project to classify the image into Dogs or Cat. Used Various Machine Learning Libraries such as Tenserflow
 
 # Dog vs Cat Convolution Neural Network Classifier
